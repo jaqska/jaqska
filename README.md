@@ -33,6 +33,9 @@ ___
       Hey, welcome to my GitHub page. My journey started learning Python. I found programming fascinating and now I want to learn other languages as well. I am currently             learning more about front-end development (HTML, CSS and Javascript for now). </h3>
   </details>
 
+___
+
+Avatar is made using Avatar Illustration System by [Micah Lanier](https://github.com/Codennnn/vue-color-avatar).
 
 
 
