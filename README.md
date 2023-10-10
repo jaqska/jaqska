@@ -35,7 +35,7 @@ ___
 
 ___
 
-Avatar is made using Avatar Illustration System by [Micah Lanier](https://github.com/Codennnn/vue-color-avatar).
+Avatar is made using Vue Color Avatar by [LeoKu](https://github.com/Codennnn/vue-color-avatar). The avatar assets implementation of [Avatar Illustration System](https://www.figma.com/community/file/829741575478342595/avatar-illustration-system) by Micah Lanier, and is licensed under CC BY 4.0.
 
 
 
