@@ -2,7 +2,7 @@
 
 `A passionate hydrologist`
 
-I'm a hydrologist passionate about learning more about front-end and back-end development. All my projects are built from the ground up. I am currently starting to learn the ropes about front-end development following [the Odin Project](https://www.theodinproject.com/).
+I'm a hydrologist passionate about learning more about front-end and back-end development. All my projects are built from the ground up. I am currently starting to learn the ropes about front-end development following the courses at [freeCodeCamp](https://www.freecodecamp.org/).
 
 
 <p align="left">
