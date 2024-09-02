@@ -4,6 +4,8 @@
 
 I'm a hydrologist passionate about learning more about front-end and back-end development. All my projects are built from the ground up. I am currently starting to learn the ropes about front-end development following the courses at [freeCodeCamp](https://www.freecodecamp.org/).
 
+Follow my blog here at GitHub on my exciting [coding journey](https://jaqska.github.io/devQuest/)
+
 
 <p align="left">
   <a href="https://github.com/jaqska">
