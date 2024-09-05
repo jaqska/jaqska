@@ -31,11 +31,6 @@ ___
 
   #
 
-  <details>
-    <summary><h3>  :sunrise_over_mountains: My programming journey </h3> </summary>
-      Hey, welcome to my GitHub page. M I am currently             learning more about front-end development (HTML, CSS and Javascript for now). </h3>
-  </details>
-
 ___
 
 Avatar is made using [Vue Color Avatar](https://github.com/Codennnn/vue-color-avatar) by LeoKu. The avatar assets implementation of [Avatar Illustration System](https://www.figma.com/community/file/829741575478342595/avatar-illustration-system) by Micah Lanier, and is licensed under CC BY 4.0.
