@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Jacob Skavang
 
-`A passionate hydrologist`
+`Hydrologist and curious coder`
 
-I'm a hydrologist passionate about learning more about front-end and back-end development. All my projects are built from the ground up. I am currently starting to learn the ropes about front-end development following the courses at [freeCodeCamp](https://www.freecodecamp.org/).
+I'm a hydrologist with five years experience in data science using Python. I passionate about coding, and now I am learning more about front-end development. I am currently JavaScript following the courses at [freeCodeCamp](https://www.freecodecamp.org/).
 
 Visit my [website](https://jaqska.github.io/portfolio-website/) where you can see my software development projects, blog insights, and personal journey as an aspiring tech professional.
 
@@ -33,7 +33,7 @@ ___
 
   <details>
     <summary><h3>  :sunrise_over_mountains: My programming journey </h3> </summary>
-      Hey, welcome to my GitHub page. My journey started learning Python. I found programming fascinating and now I want to learn other languages as well. I am currently             learning more about front-end development (HTML, CSS and Javascript for now). </h3>
+      Hey, welcome to my GitHub page. M I am currently             learning more about front-end development (HTML, CSS and Javascript for now). </h3>
   </details>
 
 ___
