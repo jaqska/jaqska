@@ -2,7 +2,7 @@
 
 `Hydrologist and curious coder`
 
-I'm a hydrologist with five years experience in data science using Python. I passionate about coding, and now I am learning more about front-end development. I am currently learning JavaScript following the courses at [freeCodeCamp](https://www.freecodecamp.org/).
+I'm a hydrologist with five years experience in data science using Python. I passionate about coding, and now I am learning more about front-end development. I am currently learning React, Node.js and Express following the courses at [Full Stack Open](https://fullstackopen.com/en/).
 
 Visit my [website](https://jaqska.github.io/portfolio/) where you can see my software development projects, blog insights, and personal journey as an aspiring tech professional.
 
