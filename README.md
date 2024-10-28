@@ -16,6 +16,7 @@ Visit my [website](https://jaqska.github.io/portfolio/) where you can see my sof
 ___
 
 ## 🔨 Languages and Tools
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 
 <img alt="python" width=25px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img alt="git" width=25px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
@@ -26,7 +27,7 @@ ___
 <img alt="nodejs" width=25px style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg"/>
 <img alt="linux" width=25px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
-
+</div>
 
 
 
