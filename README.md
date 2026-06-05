@@ -4,8 +4,7 @@
 
 I'm a hydrologist with several years experience in data science using Python. I am currently learning AI engineering, reproducible ML workflows and data engineering. I'm interested in collaborations, mentorship, and practical projects that bridge data, models and production systems. If you have opportunities in MLOps, Databricks, cloud data platforms, or generative AI experimentation, please get in touch.
 
-Visit my [website](https://jaqska.github.io/portfolio/) where you can see my software development projects, blog insights, and personal journey as an aspiring tech professional.
-
+Visit my [website](https://jaqska.github.io/) where you can see my software development projects, blog insights, and personal journey as an aspiring tech professional.
 
 <p align="left">
   <a href="https://github.com/jaqska">
